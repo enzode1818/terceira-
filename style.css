@@ -1,0 +1,54 @@
+h1{
+    color:pink;
+}
+h2{
+    color:brown;
+}
+h3{
+    color:burlywood;
+}
+h4{
+    color:red;
+}
+h5{
+    color:yellow;
+}
+h6{
+    color:green;
+}
+ul{
+    background-color: gray;
+}
+ol{
+    background-color: orange;
+}
+th{
+    color:gold;
+    background-color:brown;
+}
+td{
+    color:blue;
+    background-color:chartreuse;
+}
+body{
+    background-color: black;
+}
+input{  
+    width: 500px;
+    height: 200px;
+}
+label{
+    color:beige;
+}
+
+table{
+    positions: relative;
+    left: 450px;    
+}
+.H{
+    background-color: blueviolet;
+    position: relative;
+    left: 450px;
+    width: 200px;
+}
+#let
